@@ -3,9 +3,7 @@
 ## Sobre mí
 Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor con su participación en las actividades que desempeñe. Comprometido con la mejora continua a través de la eduación continua y la aplicación de sus conociemientos.
 ## Contacto
-* +56934907408
 * melitacruces@gmail.com
-* Av. Vasco Nuñez de Balboa 6040, Talcahuano
 * [LinkedIn](https://www.linkedin.com/in/melitacruces/)
 ## Experiencia
 ### TRABAJO SEMESTRAL CON PYME
