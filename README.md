@@ -6,7 +6,7 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor c
 * +56934907408
 * melitacruces@gmail.com
 * Av. Vasco Nuñez de Balboa 6040, Talcahuano
-* (LinkedIn)[https://www.linkedin.com/in/melitacruces/]
+* [LinkedIn](https://www.linkedin.com/in/melitacruces/)
 ## Experiencia
 ### TRABAJO SEMESTRAL CON PYME
 #### Mister Burbuja | 2023
