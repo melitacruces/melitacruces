@@ -1,28 +1,27 @@
-# Luis Andrés Melita Cruces 👋
-**Estudiante de Ingeniería Civil Industrial**
+# Luis Andrés Melita Cruces
 ## Sobre mí
 Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor con su participación en las actividades que desempeñe. Comprometido con la mejora continua a través de la eduación continua y la aplicación de sus conociemientos.
 ## Contacto
-* melitacruces@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/melitacruces/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/melitacruces/)
+* 📧 melitacruces@gmail.com
 ## Experiencia
-### TRABAJO SEMESTRAL CON PYME
-#### Mister Burbuja | 2023
-* Diseño de un layout de bodega.
-* Análisis financiero.
-* Análisis de datos.
-* Investigación de mercado.
-* Trabajo en equipo.
-### PARTICIPACIÓN EN PROGRAMA DE VINCULACIÓN ALUMNO-EMPRESA
-#### Exovet | 2023
+### 🔹 Practicante Universitario
+#### Unidad de Data Science UdeC | 2024
+Colaboración en equipo de trabajo enfocado en la seguridad de los Modelos de Lenguaje de Aprendizaje Profundo (LLM Security).
+Innvestigación y desarrollo de mecanismos de evaluación centrados en el dominio operativo de chatbots. Utilizando técnicas como la Generación de Respuestas y Argumentación (RAG), y/o el ajuste fino (Fine-Tuning).
+* 
+### 🔹 Particpación en Programa de Vinculación Estudiante-Empresa
+#### IncubaUdeC | 2023
+Experiencia en el que estudiantes trabajaron durante un semestre con emprendimientos que se encuentran en una etapa inicial, en este caso se trabajo con la start-up Exovet, proponiendo aspectos de mejora para los negocios, llevando a cabo estudio de mercado, estudio legal, evaluación económica y financiera.
 * Evaluación de proyectos.
 * Análisis financiero.
 * Análisis de datos.
+* Estudio legal.
 * Investigación de mercado.
 * Trabajo en equipo.
-### TRABAJO SEMESTRAL CON EMPRESA
+### 🔹 Trabajo Semestral con Empresa
 #### ForAction S.A | 2023
-* Busqueda de problemas y oportunidades en la gestoón de RRHH.
+* Busqueda de problemas y oportunidades en la gestión de RRHH.
 ## Estudios
 ### ENSEÑANZA MEDIA
 #### Liceo Gabriela Mistral | 2015-2018
@@ -39,18 +38,3 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor c
 * Conocimiento en programación.
 * Trabajo en equipo.
 * Liderazgo.
-
-<!--
-**melitacruces/melitacruces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
