@@ -5,10 +5,10 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor e
 * 💼 [LinkedIn](https://www.linkedin.com/in/melitacruces/)
 * 📧 melitacruces@outlook.com
 ## Estudios
-* ### **INGENIERÍA CIVIL INDUSTRIAL**
-  #### Universidad de Concepción | 2019-Actualidad
-* ### **ENSEÑANZA MEDIA**
-  #### Liceo Gabriela Mistral | 2015-2018
+### **INGENIERÍA CIVIL INDUSTRIAL**
+> #### Universidad de Concepción | 2019-Actualidad
+### **ENSEÑANZA MEDIA**
+> #### Liceo Gabriela Mistral | 2015-2018
 ## Habilidades
 * Excel
 * Python
