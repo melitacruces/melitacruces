@@ -14,3 +14,4 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor e
 * Python
 * Data Science
 * SQL
+* Data
