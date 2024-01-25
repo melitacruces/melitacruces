@@ -7,10 +7,5 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor e
 ## Estudios
 ### **INGENIERÍA CIVIL INDUSTRIAL**
 > Universidad de Concepción | 2019-Actualidad
-### **ENSEÑANZA MEDIA**
-> Liceo Gabriela Mistral | 2015-2018
-## Habilidades
-* Excel
-* Python
-* Data Science
-* SQL
+
+...
