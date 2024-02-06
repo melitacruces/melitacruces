@@ -7,4 +7,3 @@ Estudiante de Ingeniería Civil Industrial de 22 años que busca aportar valor e
 ## Estudios
 ### **INGENIERÍA CIVIL INDUSTRIAL**
 > Universidad de Concepción | 2019-Actualidad
-...
