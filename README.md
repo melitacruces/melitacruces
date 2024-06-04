@@ -1,6 +1,6 @@
 # Luis Andrés Melita Cruces
 
-🤗 [Higging Face Profile](https://huggingface.co/melitacruces)
+🤗 [Higging Face Profile](https://huggingface.co/LuianMC)
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/melitacruces)
 
