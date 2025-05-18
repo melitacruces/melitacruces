@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:dreiandev@outlook.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge)](https://www.tiktok.com/@dreiandev)
 
-# Sobre mí
+## Sobre mí:
 
 <p align="left">
   <img src="profile_photo.jpg" width="267" />
