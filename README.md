@@ -24,7 +24,7 @@
     <td>
       <img src="profile_photo.jpg" width="100" style="border-radius: 50%;" />
     </td>
-    <td style="vertical-align: center; padding-left: 10px;">
+    <td style="horizontal-align: center; padding-left: 10px;">
       <h2 align="center">Luis Andrés Melita Cruces</h2>
       <p align="center">
         <a href="https://www.linkedin.com/in/melitacruces">
