@@ -19,10 +19,10 @@
 </p>
 
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="profile_photo.jpg" width="100" style="border-radius: 50%;" />
+      <img src="profile_photo.jpg" width="150" style="border-radius: 50%; border: none;" />
     </td>
     <td style="horizontal-align: center; padding-left: 10px;">
       <h2 align="center">Luis Andrés Melita Cruces</h2>
