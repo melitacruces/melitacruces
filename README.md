@@ -5,7 +5,6 @@
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge)](https://huggingface.co/dreiandev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/dreiandev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/dreiandev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:dreiandev@outlook.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge)](https://www.tiktok.com/@dreiandev)
 
 ## Sobre mí:
