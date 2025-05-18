@@ -18,7 +18,9 @@
   </a>
 </p>
 
-<h1 align="center">Luis Andrés Melita Cruces</h1>
+---
+
+<h2 align="center">Luis Andrés Melita Cruces</h2>
 
 <p align="center">
   <img src="profile_photo.jpg" width="200" />
@@ -27,6 +29,9 @@
 <p align="justify">
   Ingeniero Civil Industrial que busca aportar valor en las actividades que desempeñe, con una sólida formación e interés en finanzas, logística y gestión de operaciones. Profundo interés y en ciencia de datos e inteligencia artificial. Soy una persona proactiva, con una gran capacidad para trabajar en equipo. Me adapto con facilidad a nuevos entornos y desafíos, siempre en búsqueda de aprendizaje constante y desarrollo profesional. Mi objetivo profesional es combinar mis conocimientos en ingeniería y tecnología para crear soluciones de alto impacto que impulsen la transformación digital y la innovación empresarial.
 </p>
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melitacruces">
@@ -39,3 +44,18 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/melitacruces" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/melitacruces" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="mailto:melitacruces@outlook.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
+
+---
