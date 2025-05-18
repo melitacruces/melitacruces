@@ -1,5 +1,7 @@
 # DreianDev
 
+![Banner](banner.png)
+
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge)](https://huggingface.co/dreiandev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/dreiandev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/dreiandev)
