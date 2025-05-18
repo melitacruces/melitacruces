@@ -1,6 +1,6 @@
 # DreianDev
 
-![Banner](banner.png)
+![Banner](bannewr.png)
 
 ## También en:
 
