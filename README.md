@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](images/banner.png)
 
 # También en:
 
@@ -10,7 +10,7 @@
 # Sobre mí:
 
 <p align="left">
-  <img src="profile_photo.jpg" width="267" />
+  <img src="images/profile_photo.jpg" width="267" />
 </p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/melitacruces)
