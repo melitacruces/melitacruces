@@ -5,9 +5,9 @@
 </p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/melitacruces)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/melitacruces)
 [![LinkedIn](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:melitacruces@outlook.com)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge)](https://huggingface.co/melitacruces)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/melitacruces)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/melitacruces)
 
 <p align="justify">
