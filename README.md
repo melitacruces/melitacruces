@@ -1,7 +1,7 @@
 # Sobre mí:
 
 <p align="left">
-  <img src="images/profile_photo.jpg" width="267" />
+  <img src="images/profile_photo.jpg" width="400" />
 </p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/melitacruces)
