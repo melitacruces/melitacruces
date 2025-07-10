@@ -1,7 +1,6 @@
 ## También en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/melitacruces)
-[![LinkedIn](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:melitacruces@outlook.com)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge)](https://huggingface.co/melitacruces)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:melitacruces@outlook.com)
 
 ## Sobre mí:
 
