@@ -13,3 +13,8 @@ visión analítica y orientada a resultados. Busco integrarme a una empresa dond
 ingeniería y transformación digital para generar soluciones de alto impacto que impulsen la innovación y el crecimiento 
 sostenible.
 <p>
+
+
+<a href="./cv-melitacruces.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver mi CV">
+</a>
