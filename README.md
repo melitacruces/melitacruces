@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090514,50:1e3a8a,100:00f0ff&height=240&section=header&text=Hola,%20soy%20Luis%20Andr%C3%A9s&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=Ingeniero%20Civil%20Industrial%20%7C%20Desarrollador%20Full%20Stack-nl-%20-nl-Transformando%20datos%20e%20ideas%20en%20soluciones%20tecnol%C3%B3gicas%20de%20alto%20impacto.&descAlignY=65&descAlign=50&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090514,50:1e3a8a,100:00f0ff&height=240&section=header&text=HOLA,%20SOY%20LUIS%20ANDR%C3%89S&fontColor=ffffff&fontSize=60&fontAlignY=30&desc=INGENIERO%20CIVIL%20INDUSTRIAL%20%7C%20DESARROLLADOR%20FULL%20STACK-nl-%20-nl-Transformando%20datos%20e%20ideas%20en%20soluciones%20tecnol%C3%B3gicas%20de%20alto%20impacto.&descAlignY=65&descAlign=50&animation=twinkling" alt="Header" />
 </div>
 
 <br>
