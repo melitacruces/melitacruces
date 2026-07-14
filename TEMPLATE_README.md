@@ -33,7 +33,6 @@ Reglas:
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [🚀 Requisitos e Instalación](#-requisitos-e-instalación)
 - [📦 Scripts y Comandos](#-scripts-y-comandos)
-- [🌐 Despliegue](#-despliegue)
 - [📧 Contacto](#-contacto)
 
 ---
