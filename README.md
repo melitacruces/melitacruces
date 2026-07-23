@@ -1,4 +1,4 @@
-# Luis Melita - Ingeniero Civil Industrial - Desarrollador Full Stack
+# Luis Melita
 
 <a href="https://melitacruces.com/" target="_blank"><img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/melitacruces" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
